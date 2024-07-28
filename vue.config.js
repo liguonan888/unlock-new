@@ -1,6 +1,7 @@
 const ThreadsPlugin = require('threads-plugin');
 module.exports = {
     publicPath: '',
+    outputDir: 'docs',
     productionSourceMap: false,
     pwa: {
         manifestPath: "web-manifest.json",
