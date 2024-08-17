@@ -15,10 +15,10 @@
       </el-row> -->
       <el-row>
         <!--如果进行二次开发，此行版权信息不得移除且应明显地标注于页面上-->
-        <span>Copyright &copy; 2024 - {{ new Date().getFullYear() }} MengYX大神</span>
-        音乐解锁使用
+        <span style="font-size: 4px;">Copyright MengYX</span>
+        <!-- 音乐解锁使用 -->
         <!-- <a href="https://github.com/ix64/unlock-music/blob/master/LICENSE" target="_blank">MIT许可协议</a> -->
-        开放源代码
+        <!-- 开放源代码 -->
       </el-row>
     </el-footer>
   </el-container>
